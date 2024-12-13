@@ -58,15 +58,15 @@ Project/
 └── requirements.txt        # Python dependencies
 
 ---
-
+```
 ## 🌐 **Follow Me & Connect**  
 
 Stay updated and explore more of my work:  
 
-- **GitHub**: [github.com/YourUsername](https://github.com/YourUsername)  
-- **LinkedIn**: [linkedin.com/in/YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)  
-- **YouTube**: [youtube.com/c/YourChannelName](https://youtube.com/c/YourChannelName)  
-- **WhatsApp**: [Message Me](https://wa.me/YourPhoneNumber)  
+- **GitHub**: [github.com/YourUsername](https://github.com/jery123)  
+- **LinkedIn**: [linkedin.com/in/jery-foto](https://linkedin.com/in/jery-foto)  
+- **YouTube**: [youtube.com/@pop2c](https://www.youtube.com/@pop2c)  
+- **WhatsApp**: [Message Me](https://wa.me/+918734036128)  
 
 Feel free to connect, collaborate, or reach out with any ideas or questions. Let’s build and grow together! 🚀  
 
