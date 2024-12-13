@@ -48,22 +48,24 @@ Subspace Methods focus on **dimensionality reduction** by transforming the origi
 ```plaintext
 Project/
 │
-├── data/                   # Datasets used for testing
+├── theory/                   # Nojte explanation for this study
 ├── notebooks/              # Jupyter Notebooks with code & explanations
-│   ├── embedded_methods.ipynb
-│   ├── subspace_methods.ipynb
+│   ├── implementation.ipynb
 │
-├── results/                # Generated plots and outputs
+├── outputs/                # Generated plots and outputs images
 ├── README.md               # Project documentation
-└── requirements.txt        # Python dependencies
 
 ---
 ```
+
+## ** ✔ Reference **
+- **Youtube**: [Machine Learning Tutorial Python - 19: Principal Component Analysis (PCA) with Python Code](https://youtu.be/8klqIM9UvAc?si=J-GLcfQD1cZRWu81)
+
 ## 🌐 **Follow Me & Connect**  
 
 Stay updated and explore more of my work:  
 
-- **GitHub**: [github.com/YourUsername](https://github.com/jery123)  
+- **GitHub**: [github.com/jery123](https://github.com/jery123)  
 - **LinkedIn**: [linkedin.com/in/jery-foto](https://linkedin.com/in/jery-foto)  
 - **YouTube**: [youtube.com/@pop2c](https://www.youtube.com/@pop2c)  
 - **WhatsApp**: [Message Me](https://wa.me/+918734036128)  
