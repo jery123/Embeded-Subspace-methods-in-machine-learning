@@ -56,3 +56,18 @@ Project/
 ├── results/                # Generated plots and outputs
 ├── README.md               # Project documentation
 └── requirements.txt        # Python dependencies
+
+---
+
+## 🌐 **Follow Me & Connect**  
+
+Stay updated and explore more of my work:  
+
+- **GitHub**: [github.com/YourUsername](https://github.com/YourUsername)  
+- **LinkedIn**: [linkedin.com/in/YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)  
+- **YouTube**: [youtube.com/c/YourChannelName](https://youtube.com/c/YourChannelName)  
+- **WhatsApp**: [Message Me](https://wa.me/YourPhoneNumber)  
+
+Feel free to connect, collaborate, or reach out with any ideas or questions. Let’s build and grow together! 🚀  
+
+---
